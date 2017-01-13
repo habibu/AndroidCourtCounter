@@ -3,4 +3,5 @@
 */
 # AndroidCourtCounter
 Android Application for counting Basket Ball scores
-The Google Play link is comming soon
+The Google Play link: https://play.google.com/store/apps/details?id=io.github.habibu.courtcounter
+
